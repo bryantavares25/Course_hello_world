@@ -4,5 +4,5 @@ Firs directory.
 
 Introduction of Python languange.
 
-77 solve questions.
+77 problems-solved.
 
